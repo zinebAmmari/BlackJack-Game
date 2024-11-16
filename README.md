@@ -4,6 +4,6 @@ https://zinebammari.github.io/BlackJack-Game/
 ## Technologies Used
 - HTML
 - CSS
-- -Javascript
+- Javascript
  
 
