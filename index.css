@@ -1,0 +1,25 @@
+body{
+    background-image: url('Freepik_\ Download\ Free\ Videos\,\ Vectors\,\ Photos\,\ and\ PSD.jpeg');
+  background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    font-size: larger;
+}
+
+button{
+    padding: 5px;
+    width: 15%;
+    margin: 5px;
+    border: none;
+    border-radius: 5px;
+    background-color: rgb(2, 56, 2);
+    color: white;
+}
+h1{
+    color: red;
+}
+#paragraph{
+    color: blue;
+}
